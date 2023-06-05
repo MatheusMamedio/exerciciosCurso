@@ -1,6 +1,6 @@
 # Exercicios Java
 
-Todos os exercícios de Java básico e Java POO feitos até agora
+Todos os exercícios de Java básico, java intermediario e Java POO feitos até agora
 
 Learning_java contem: Todos os exercicios do Curso da Professora Loiane Groner acesse o curso aqui -> https://loiane.training
 
