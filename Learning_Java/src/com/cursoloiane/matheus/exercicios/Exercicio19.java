@@ -14,10 +14,10 @@ public class Exercicio19 {
 		 */
 		Scanner scan = new Scanner(System.in);
 
-		System.out.println("Entre com com a primeira nota ");
+		System.out.println("Entre com a primeira nota ");
 		double nota1 = scan.nextDouble();
 		
-		System.out.println("Entre com com a primeira nota ");
+		System.out.println("Entre com a primeira nota ");
 		double nota2 = scan.nextDouble();
 		
 		double media = (nota1 + nota2) / 2;
