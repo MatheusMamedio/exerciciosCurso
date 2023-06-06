@@ -2,7 +2,7 @@ package com.cursoloiane.matheus.exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio020 {
+public class Exercicio20 {
 
 	public static void main(String[] args) {
 		/* exercicio 20, faça um programa que leia três numeros e mostre o maior deles*/
