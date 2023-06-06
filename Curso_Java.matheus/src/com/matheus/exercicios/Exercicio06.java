@@ -13,7 +13,7 @@ public class Exercicio06 {
 			System.out.println("=====MENU=====");
 			System.out.println("1. Nome do usuario");
 			System.out.println("2. idade ");
-			System.out.println("2. Sair do Sistema");
+			System.out.println("3. Sair do Sistema");
 			opc = scan.nextInt();
 			if (opc == 1)
 				System.out.println("Jonnny");

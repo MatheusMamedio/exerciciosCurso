@@ -11,15 +11,15 @@ public class Exercicio03 {
 		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("entre com a nota do trabalho:");
-		float n1 = scan.nextFloat();
+		float nota1 = scan.nextFloat();
 
 		System.out.print("entre com a nota da avaliação:");
-		float n2 = scan.nextFloat();
+		float nota2 = scan.nextFloat();
 
 		System.out.print("entre com a nota do exame final:");
-		float n3 = scan.nextFloat();
+		float nota3 = scan.nextFloat();
 
-		float media = (n1 * 2 + n2 * 3 + n3 * 5) / (2 + 3 + 5);
+		float media = (nota1 * 2 + nota2 * 3 + nota3 * 5) / (2 + 3 + 5);
 		System.out.println("a media ponderada :" + media);
 
 		if (media >= 8 && media <= 10) {
