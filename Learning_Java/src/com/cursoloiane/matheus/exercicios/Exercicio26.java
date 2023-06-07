@@ -50,30 +50,7 @@ public class Exercicio26 {
 		System.out.println("Total de descontos:"+totalDescontos);
 		System.out.println("Salário liquido: "+salarioLiquido);
 		scan.close();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 
 	}
 
