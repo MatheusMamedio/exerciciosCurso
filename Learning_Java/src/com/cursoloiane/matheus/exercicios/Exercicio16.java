@@ -13,9 +13,7 @@ public class Exercicio16 {
 
 		System.out.println("Entre com o primeiro numero:");
 		int numero= scan.nextInt();
-		
-		
-		
+			
 		if (numero >= 0 ) {
 			System.out.println("o numero é positivo");
 		}else {
@@ -23,24 +21,6 @@ public class Exercicio16 {
 		}
 		
 		scan.close();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }

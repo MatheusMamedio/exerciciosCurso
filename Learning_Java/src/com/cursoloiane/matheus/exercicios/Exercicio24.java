@@ -30,22 +30,6 @@ public class Exercicio24 {
 			break;
 		default: System.out.println("valor invalido");
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
 	}
 
 }

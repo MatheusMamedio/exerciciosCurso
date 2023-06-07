@@ -25,12 +25,6 @@ public class Exercicio20 {
 			System.out.println(num3+" é o maior");
 		}
 		scan.close();
-		
-		
-		
-		
-		
-		
 	}
 
 }

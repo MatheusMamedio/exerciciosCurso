@@ -14,8 +14,6 @@ public class Exercicio03 {
 		int numero2 = scan.nextInt();
 		scan.close();
 		System.out.println("a soma entre "+numero1 + "+" + numero2 + "="+ (numero1 + numero2) );
-		
-
 	}
 
 }

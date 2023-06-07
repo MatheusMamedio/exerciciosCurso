@@ -23,7 +23,7 @@ public class Exercicio04 {
 		double resultado = (nota1 + nota2 + nota3 + nota4) / 4;
 
 		System.out.println("a media entre os quatro valores é: " + resultado);
-
+		scan.close();
 	}
 
 }

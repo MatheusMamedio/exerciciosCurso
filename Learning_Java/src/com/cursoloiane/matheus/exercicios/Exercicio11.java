@@ -28,20 +28,7 @@ public class Exercicio11 {
 		System.out.println("Resultado A: " + resultadoA);
 		System.out.println("Resultado B: " + resultadoB);
 		System.out.println("Resultado C: " + resultadoC);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 	}
 
 }

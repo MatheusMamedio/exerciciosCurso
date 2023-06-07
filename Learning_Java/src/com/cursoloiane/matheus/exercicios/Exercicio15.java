@@ -19,10 +19,6 @@ public class Exercicio15 {
 		if(num1 > num2) {
 			System.out.println("o numero "+num1+" é maior");
 		}else System.out.println("o numero "+num2+" é maior");
-			
-		
-		
-
 	}
 
 }

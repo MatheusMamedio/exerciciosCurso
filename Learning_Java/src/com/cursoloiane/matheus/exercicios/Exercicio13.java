@@ -34,28 +34,12 @@ public class Exercicio13 {
 		double totalDescontos = inss + sindicato +ir;
 		double salarioLiquido = salarioBruto - totalDescontos;
 		
-		
-		
 		System.out.println("o salario Bruto é: " + salarioBruto);
 		System.out.println("INSS: " + inss);
 		System.out.println("Sindicato: " + sindicato);
 		System.out.println("IR: " + ir);
 		System.out.println("total de descontos: " + totalDescontos);
 		System.out.println("salario liquido: " + salarioLiquido);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 

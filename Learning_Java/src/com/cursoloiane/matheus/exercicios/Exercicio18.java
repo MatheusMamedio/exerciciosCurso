@@ -31,12 +31,6 @@ public class Exercicio18 {
 			System.out.println("é uma consoante");
 		}
 		scan.close();
-		
-		
-		
-		
-		
-
 	}
 
 }

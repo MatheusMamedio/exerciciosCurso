@@ -29,30 +29,6 @@ public class Exercicio19 {
 		}else {
 			System.out.println("reprovado");
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
