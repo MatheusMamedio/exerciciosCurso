@@ -65,7 +65,7 @@ public class Exercicio34 {
 		}else if(cont == 0 ) {
 			System.out.println("Inocente");
 		}
-		
+		scan.close();
 
 	}
 
