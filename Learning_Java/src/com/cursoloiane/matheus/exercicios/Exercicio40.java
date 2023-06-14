@@ -90,7 +90,7 @@ public class Exercicio40 {
 				infoValida = true;
 
 			} else {
-				System.out.println("Sexo invalido, precisa ser 'F' ou 'M' ");
+				System.out.println("Estado civil precisar ser [S/C/V/D] ");
 			}
 
 		} while (!infoValida);
